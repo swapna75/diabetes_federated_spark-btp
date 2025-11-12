@@ -9,7 +9,7 @@ flwr[simulation]>=1.23.0
 ray==2.31.0
 
 # Deep Learning
-torch==2.1.0
+torch>=2.2.0
 
 # Data handling
 pyarrow>=14.0.0,<15.0.0
